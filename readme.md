@@ -27,5 +27,5 @@ yarn
 
 To compile the contracts:
 ```
-npx buidler compile
+yarn hardhat compile
 ```
